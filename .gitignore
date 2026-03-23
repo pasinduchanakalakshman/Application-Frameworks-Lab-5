@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Dependency directories
+jspm_packages/
+
+# Build output
+dist/
+build/
+
+# Optional npm cache directory
+.npm
+
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+tmp/
+temp/
+
+# Docker (optional)
+.dockerignore
+
